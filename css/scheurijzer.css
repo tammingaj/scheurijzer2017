@@ -1,0 +1,18 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.hero-unit {
+	background-image: url('../scheurijzer/img/hero.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	max-height: 800px;
+}
+p.text-white {
+	color: white;
+	text-shadow: 1px 1px #000000;
+}
+a.external{
+ 	background: transparent url("../scheurijzer/img/external_link.png") no-repeat center right;
+    padding-right: 13px;
+}
